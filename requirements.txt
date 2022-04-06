@@ -8,7 +8,7 @@ futures==3.0.5
 Flask==0.11.1
 httpretty==0.8.10
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 jmespath==0.9.0
 MarkupSafe==0.23
 moto==0.4.24
