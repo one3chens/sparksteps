@@ -5,7 +5,7 @@ botocore==1.4.31
 click==6.6
 docutils==0.12
 futures==3.0.5
-Flask==0.11.1
+Flask==2.2.5
 httpretty==0.8.10
 itsdangerous==0.24
 Jinja2==2.8
